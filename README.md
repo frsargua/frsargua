@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @frsargua
+# 👋 Hi, I’m @frsargua
+
 - 👀 I’m interested in Front-end Developement and databases.
 - 🔭 I’m currently working on 🤖 [TAPTAPGO Project](https://github.com/RamiElsayed/tap-tap-go)
 - 🌱 I’m currently learning Redux 
@@ -12,7 +13,7 @@ I am a full stack developer with a logical mindset, who enjoys analysing and sol
 
 I am currently looking for an entry level/ junior position as a React Front-end developer.
 
-##Technologies
+### Technologies
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,7 +34,7 @@ I am currently looking for an entry level/ junior position as a React Front-end 
 <br />
 <br />
 
-
+### Github Stats
 [![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=frsargua)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
