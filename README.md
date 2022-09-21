@@ -14,7 +14,7 @@ I am currently looking for an entry level/ junior position as a React Front-end 
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=frsargua)](https://github.com/frsargua/github-readme-stats)
+[![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=frsargua)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/fabiansarango/)
